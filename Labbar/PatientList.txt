@@ -1,0 +1,88 @@
+Fred-Vilgot Ros 090330-8329 3
+64
+3
+12
+Bo Ek 1111111-1111 2
+3
+7
+Eva Larsson 200112-1660 3
+32
+234
+1
+Elin Bengtsson 490101-2910 3
+46
+37
+123
+Greta Lundh 520312-4567 7
+563
+64
+86
+24
+89
+34
+6
+Helen Lindqvist 660530-4368 4
+54
+3
+4
+9
+Peter Smith 670320-0195 1
+11
+Goran Wright 691224-0987 2
+34
+65
+Anton Svensson 751010-3091 5
+14
+34
+43
+23
+55
+Therese Lucas 781012-6742 10
+3
+25
+8
+7
+4
+6
+3
+8
+9
+1
+Sandra Lind 850805-6702 2
+30
+4
+David Olofsson 871028-2397 0
+Andreas Berg 890624-5732 3
+40
+23
+6
+Clara Hallgren 950730-6802 3
+5
+6
+7
+Kamile Mendely 960124-5801 1
+10
+Olivia Hoft 970911-3039 5
+80
+5
+48
+2
+55
+Cornelia Smith 980103-2542 4
+68
+32
+5
+2
+Caroline Alne 980420-7474 2
+4
+7
+Pontus Wistrom 980428-3597 6
+45
+76
+6
+3
+7
+5
+Gustav Gren 981013-3794 2
+35
+3

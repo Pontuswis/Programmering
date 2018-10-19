@@ -1,0 +1,37 @@
+Anna Mann 930908-9362 4
+27
+80
+2
+6
+Anton Svensson 751010-3091 5
+14
+34
+43
+23
+55
+Clara Hallgren 950730-6802 3
+5
+6
+7
+David Olofsson 871028-2397 1
+1
+Elin Bengtsson 490101-2910 3
+46
+37
+123
+Eva Larsson 200112-1660 3
+32
+234
+1
+Gustav Gren 981013-3794 2
+35
+3
+Peter Smith 670320-0195 1
+11
+Pontus Wistrom 980428-3597 6
+45
+76
+6
+3
+7
+5
